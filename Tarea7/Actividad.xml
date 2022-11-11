@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<videojuegos>
+		<game id="1">
+			<name>Monster Hunter</name>
+			<genre>rpg</genre>
+		</game>
+		<game id="2">
+			<name>Call of duty</name>
+			<genre>shooter</genre>
+		</game>
+		<game id="3">
+			<name>Mega Man</name>
+			<genre>platform</genre>
+		</game>
+		<game id="4">
+			<name>Fortnite</name>
+			<genre>shooter</genre>
+		</game>
+		<game id="5">
+			<name>Gravity rush</name>
+			<genre>rpg</genre>
+		</game>
+	</videojuegos>
+

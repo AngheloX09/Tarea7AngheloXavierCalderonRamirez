@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<celulares>
+		<celular marca="Huaweii">
+			<model>P40 lite</model>
+			<storage> 128 gb</storage>
+			<RAM>6 gb</RAM>
+		</celular>
+		<celular marca="Samsung">
+			<model>Galaxy Z FLIP</model>
+			<storage> 256 gb</storage>
+			<RAM>8 gb</RAM>
+		</celular>
+		<celular marca="Motorola">
+			<model>Edge 20 lite</model>
+			<storage> 128 gb</storage>
+			<RAM>8 gb</RAM>
+		</celular>
+		<celular marca="Nokia">
+			<model>5</model>
+			<storage> 1 tb</storage>
+			<RAM>16 gb</RAM>
+		</celular>
+		<celular marca="Iphone">
+			<model>x</model>
+			<storage> 256 tb</storage>
+			<RAM>8 gb</RAM>
+		</celular>
+
+	</celulares>
